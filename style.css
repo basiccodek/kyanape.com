@@ -1,0 +1,98 @@
+header{
+    background: url(img/program.png);
+    height: 320px;
+    background-size: cover;
+}
+.hc1{
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+h1{
+    font-size: 18px;
+    color: lawngreen;
+}
+
+header ul{
+    list-style-type: none;
+}    
+
+header ul li{
+    display: inline-block;
+}
+
+header h2{
+    text-align: center;
+    margin-top: 120px;
+    color: yellow;
+    font-size: 35px;
+}
+
+nav ul {
+    list-style-type: none;
+    text-align: center;
+}
+
+nav li{
+    display: inline-block;
+    width: 150px;
+    text-align: center;
+    border-bottom: solid black;
+    padding: 10px;
+}
+
+.ct{
+    width: 800px;
+    margin: 0 auto;
+    display: flex;
+}
+
+.i1{
+    width: 70%;
+
+}
+
+.i1 h2{
+    text-align: center;
+    border-bottom: 1px solid navy;
+}
+
+.i1 img{
+    width: 99%;
+    
+}
+
+.i2{
+    width: 22%;
+}
+
+.i2 h2{
+    font-size: 15px;
+    text-align: center;
+}
+
+.i2 ul{
+    list-style-type: none;
+    padding-left: 0px;
+    width: 200px;
+}
+
+.i2 li{
+    border-bottom: 1px dotted black;
+}
+
+p.change:hover{
+    color: #FF0000;
+	font-weight: bold;
+    font-size: 18px
+}
+
+textarea{
+    resize: none;
+    width: 50%;
+    height: 50%;
+}
+
+
+
